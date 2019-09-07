@@ -1,0 +1,5 @@
+<opinions>
+    <constraint loader="whitesmith" compilerSpecID="default">      
+        <constraint primary="83" processor="z80"    endian="little" />       
+    </constraint>
+</opinions>
