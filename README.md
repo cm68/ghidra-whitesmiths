@@ -12,5 +12,3 @@ support to untangle the quirky compiler conventions to regenerate
 some usable source code.
 
 --curt mayer
-7 Sep 2019
-

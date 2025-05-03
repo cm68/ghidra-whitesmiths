@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>ghidra-whitesmith</name>
+	<name>whitesmith80</name>
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
-		<buildCommand>
-			<name>org.python.pydev.PyDevBuilder</name>
-			<arguments>
-			</arguments>
-		</buildCommand>
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -18,13 +13,12 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
-		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
 	<linkedResources>
 		<link>
 			<name>Ghidra</name>
 			<type>2</type>
-			<location>/Users/cmayer/ghidra_9.0.4</location>
+			<location>/home/curt/ghidra_versions/ghidra_11.3.2_PUBLIC</location>
 		</link>
 	</linkedResources>
 </projectDescription>
