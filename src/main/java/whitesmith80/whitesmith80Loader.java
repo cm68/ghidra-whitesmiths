@@ -291,7 +291,7 @@ public class whitesmith80Loader extends AbstractLibrarySupportLoader {
 		}
 
 
-		pwdrelocation(MemoryBlock seg) throws IOException {
+		relocation(MemoryBlock seg) throws IOException {
 			segment = seg;
 			type = rtype.END;
 			
